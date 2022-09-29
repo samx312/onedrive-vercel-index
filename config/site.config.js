@@ -45,7 +45,7 @@ module.exports = {
   protectedRoutes: ['/🌞 Private folder/u-need-a-password', '/🥟 Some test files/Protected route'],
 
   // [OPTIONAL] Use "" here if you want to remove this email address from the nav bar.
-  email: 'avigarg245@gmail.com',
+  email: '',
 
   // [OPTIONAL] This is an array of names and links for setting your social information and links.
   // In the latest update, all brand icons inside font awesome is supported and the icon to render is based on the name
@@ -53,7 +53,7 @@ module.exports = {
   links: [
     {
       name: 'Instagram',
-      link: 'https://github.com/samx312/onedrive-vercel-index',
+      link: 'https://appopener.com/ig/ja08ejl89',
     },
     {
       name: 'Telegram',
